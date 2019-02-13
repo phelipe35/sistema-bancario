@@ -1,4 +1,5 @@
 = Projeto de Sistema Bancário para Inclusão de Testes Unitários
+[![Build Status](https://img.shields.io/travis/phelipe35/conta-corrente/master.svg)](https://travis-ci.org/phelipe35/conta-corrente)
 
 Este projeto fornece um conjunto de classes base para que sejam implementados um
 conjunto de testes unitários.
